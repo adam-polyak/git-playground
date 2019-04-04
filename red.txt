@@ -4,3 +4,4 @@ red texts all around in the red file
 2. another red-related changes
 3. red alert, Yuri's Revenge
 4. fourhts point
+5. windows local red changes
