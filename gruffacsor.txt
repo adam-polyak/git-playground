@@ -35,6 +35,8 @@ csavaros és pofás tokmányaim,
 központi csúcsos tüsketokmányaim,
 belső menet nélküli és kónikus üregű belső menetes menesztő
 tokmányaim,
+gyűrűs tokmányaim és szorítótokmányaim,
+egyáltalán az összes tokmányomat.
 
 
 "Hát megölted a Gruffacsórt?
